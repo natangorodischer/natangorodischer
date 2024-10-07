@@ -1,6 +1,5 @@
-Mi nombre es Natan Gorodischer  😄
+ Hola ! Bienvenidos a mi perfil. Soy Natan Gorodischer, Desarrollador Frontend.   😄
 ---
-🌍 Soy Desarrollador web apasionado por crear aplicaciones interactivas y dinamicas
+🌍 Desarrollador web apasionado por crear aplicaciones interactivas y dinamicas
 
-## Tecnologias que utilizo en mis proyectos
 
