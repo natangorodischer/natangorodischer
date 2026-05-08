@@ -1,5 +1,4 @@
- Hola ! Bienvenidos a mi perfil. Soy Natan Gorodischer, Desarrollador Full Stack.   😄
----
-🌍 Desarrollador web apasionado por crear aplicaciones interactivas dinámicas y responsivas. 
+Hello I'm Natan Gorodischer , welcome to my journey. Coding saves lives!
+
 
 
